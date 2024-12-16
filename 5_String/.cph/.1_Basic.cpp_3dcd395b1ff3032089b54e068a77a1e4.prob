@@ -1,0 +1,1 @@
+{"name":"Local: 1_Basic","url":"c:\\LEET - X23\\5_String\\1_Basic.cpp","tests":[{"id":1696837446390,"input":"2\nHi there\nHi there","output":""},{"id":1696838456621,"input":"1\nHi how are you","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\LEET - X23\\5_String\\1_Basic.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 3_Majority_element","url":"c:\\LeetCode_Problems\\3_Array\\2_Medium\\3_Majority_element.cpp","tests":[{"id":1691651688570,"input":"1\n3\n3 2 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\LeetCode_Problems\\3_Array\\2_Medium\\3_Majority_element.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 10_Missing_Number","url":"c:\\LeetCode_Problems\\3_Array\\1_Easy\\10_Missing_Number.cpp","tests":[{"id":1691392309357,"input":"1\n4\n1 2 4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\LeetCode_Problems\\3_Array\\1_Easy\\10_Missing_Number.cpp","group":"local","local":true}

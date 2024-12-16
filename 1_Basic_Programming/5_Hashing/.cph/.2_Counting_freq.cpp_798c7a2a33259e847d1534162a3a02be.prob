@@ -1,0 +1,1 @@
+{"name":"Local: 2_Counting_freq","url":"c:\\LeetCode_Problems\\1_Basic_Programming\\5_Hashing\\2_Counting_freq.cpp","tests":[{"id":1690962063803,"input":"6\n10 5 10 15 10 5\n3\n10 \n5\n15","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\LeetCode_Problems\\1_Basic_Programming\\5_Hashing\\2_Counting_freq.cpp","group":"local","local":true}

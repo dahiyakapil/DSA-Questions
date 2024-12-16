@@ -1,0 +1,1 @@
+{"name":"Local: 6_Reverse_Array","url":"c:\\LeetCode_Problems\\1_Basic_Programming\\4_Recursion\\6_Reverse_Array.cpp","tests":[{"id":1693819373781,"input":"1\n7\n2 3 4 5 6 7 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\LeetCode_Problems\\1_Basic_Programming\\4_Recursion\\6_Reverse_Array.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 1_Two_sum","url":"c:\\LeetCode_Problems\\3_Array\\2_Medium\\1_Two_sum.cpp","tests":[{"id":1691492359690,"input":"1\n5\n2 6 5 8 11\n14","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\LeetCode_Problems\\3_Array\\2_Medium\\1_Two_sum.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 13_Longest_subarray_with_sum","url":"c:\\LeetCode_Problems\\3_Array\\1_Easy\\13_Longest_subarray_with_sum.cpp","tests":[{"id":1691490763873,"input":"1\n3\n1 2 3\n3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\LeetCode_Problems\\3_Array\\1_Easy\\13_Longest_subarray_with_sum.cpp","group":"local","local":true}

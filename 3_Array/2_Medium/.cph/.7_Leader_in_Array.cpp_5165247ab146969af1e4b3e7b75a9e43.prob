@@ -1,0 +1,1 @@
+{"name":"Local: 7_Leader_in_Array","url":"c:\\LeetCode_Problems\\3_Array\\2_Medium\\7_Leader_in_Array.cpp","tests":[{"id":1691754983717,"input":"1\n6\n10 22 12 3 0 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\LeetCode_Problems\\3_Array\\2_Medium\\7_Leader_in_Array.cpp","group":"local","local":true}

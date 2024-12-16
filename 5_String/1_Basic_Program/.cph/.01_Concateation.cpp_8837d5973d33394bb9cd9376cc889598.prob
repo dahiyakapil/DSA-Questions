@@ -1,0 +1,1 @@
+{"name":"Local: 01_Concateation","url":"c:\\LEET - X23\\5_String\\1_Basic_Program\\01_Concateation.cpp","tests":[{"id":1703409210498,"input":"1\n2\nab c\na bc","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\LEET - X23\\5_String\\1_Basic_Program\\01_Concateation.cpp","group":"local","local":true}

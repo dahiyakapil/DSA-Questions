@@ -1,0 +1,1 @@
+{"name":"Local: 4_FLoor_and_ceil","url":"c:\\LeetCode_Problems\\4_Binary_Search\\1_BS_On_One_D_Array\\4_FLoor_and_ceil.cpp","tests":[{"id":1693427616785,"input":"1\n6\n3 4 4 7 8 10\n5","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\LeetCode_Problems\\4_Binary_Search\\1_BS_On_One_D_Array\\4_FLoor_and_ceil.cpp","group":"local","local":true}

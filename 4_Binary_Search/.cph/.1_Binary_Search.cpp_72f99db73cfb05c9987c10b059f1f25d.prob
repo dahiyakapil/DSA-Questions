@@ -1,0 +1,1 @@
+{"name":"Local: 1_Binary_Search","url":"c:\\LeetCode_Problems\\4_Binary_Search\\1_Binary_Search.cpp","tests":[{"id":1693283400085,"input":"1\n6\n1 5 6 8 9 10\n9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\LeetCode_Problems\\4_Binary_Search\\1_Binary_Search.cpp","group":"local","local":true}

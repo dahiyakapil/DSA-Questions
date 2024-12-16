@@ -1,0 +1,1 @@
+{"name":"Local: 2_Lower_Bound","url":"c:\\LeetCode_Problems\\4_Binary_Search\\1_BS_On_One_D_Array\\2_Lower_Bound.cpp","tests":[{"id":1693392996195,"input":"1\n4\n1 2 4 7\n6","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\LeetCode_Problems\\4_Binary_Search\\1_BS_On_One_D_Array\\2_Lower_Bound.cpp","group":"local","local":true}

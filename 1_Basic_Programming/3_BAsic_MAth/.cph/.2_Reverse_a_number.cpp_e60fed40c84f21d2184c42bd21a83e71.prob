@@ -1,0 +1,1 @@
+{"name":"Local: 2_Reverse_a_number","url":"c:\\LeetCode_Problems\\3_BAsic_MAth\\2_Reverse_a_number.cpp","tests":[{"id":1690648047016,"input":"3\n7789\n456893\n2347485","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\LeetCode_Problems\\3_BAsic_MAth\\2_Reverse_a_number.cpp","group":"local","local":true}
